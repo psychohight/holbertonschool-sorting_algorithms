@@ -1,8 +1,11 @@
 #include "sort.h"
 
 /**
- * main - Entry point
- *
+ * selection_sort - main function
+ * 
+ * @array: 1
+ * @size: 2
+ * 
  * Return: Always 0
  */
 void selection_sort(int *array, size_t size)
